@@ -26,22 +26,11 @@ Run the file `.conkyrc_crypto` from terminal (the first time you run this conky)
 
 ## Screenshot
 
-![](https://github.com/TheHeadlessOfficial/weather_forecastWA/blob/main/.conky/docs/screenshot.png)<br>
-This pic is related to the file `-daily.txt` (or `daily.txt`)  and it shows the next 2 forecast days.<br>
-You can build the daily conky as you wish getting the data from one of the file mentioned above.<br>
-One block of 32 rows (in the two file) is for 1 single forecast day, the first 32 rows block is for the current day.<br>
-<br>
-<br>
+![](https://github.com/TheHeadlessOfficial/conky_crypto_single_coin/blob/main/.conky/crypto/docs/screenshot.png)<br>
+
 <br>
 <br>
 
-![](https://github.com/TheHeadlessOfficial/weather_forecastWA/blob/main/.conky/docs/screenshot2.png)<br>
-This pic is related to the file `-hourly.txt` (or `hourly.txt`) and it shows the next 6 forecast hours.<br>
-You can build the hourly conky as you wish getting the data from one of the two file mentioned above.<br>
-One block of 36 rows (in the two file) is for 1 single forecast hour.<br>
-<br>
-<br>
-<br>
 <br>
 
 ---
