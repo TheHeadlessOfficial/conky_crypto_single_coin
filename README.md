@@ -1,4 +1,4 @@
-# Conky Crypto (single coin) (by CoinLore)
+# Conky Crypto Alert (single coin) (by CoinLore)
  
 A conky (with a script written in Python) which sets 2 targets, one higher and one lower than the current price of a given crypto. When one of the two targets is reached, the conky emits a sound. Using [CoinLore API](https://www.coinlore.com/cryptocurrency-data-api#ticker) website.<br>
 
