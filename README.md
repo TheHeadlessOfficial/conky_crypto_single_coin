@@ -1,2 +1,2 @@
-# conky_crypto_single_coin
+# Conky crypto (single coin)
  
