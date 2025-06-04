@@ -56,7 +56,7 @@ conky.config = {
 	show_graph_scale = true,
 	stippled_borders = 5,
 --total_run_times 0,
-	update_interval = 30,
+	update_interval = 10,
 	uppercase = false,-- set to yes if you want all text to be in uppercase
 	use_spacer = 'none',
 	use_xft = true,
@@ -66,7 +66,7 @@ conky.config = {
 
 conky.text = [[
 ########################################### load script Python
-${execpi 60 python ~/.conky/crypto/crypto_alert.py}${if_existing /tmp/script_crypto.lock}Loading...${else}${alignc}${color2}${font URW Gothic L:style=Bold:size=9}CONKY CRYPTO ALERTS${color}${font}${image $HOME/.conky/crypto/cryptologo.png -p 220,0 -s 16x16}${image $HOME/.conky/crypto/python_logo.png -p 240,0 -s 15x15}
+${execpi 30 python ~/.conky/crypto/crypto_alert.py}${if_existing /tmp/script_crypto.lock}Loading...${else}${alignc}${color2}${font URW Gothic L:style=Bold:size=9}CONKY CRYPTO ALERTS${color}${font}${image $HOME/.conky/crypto/cryptologo.png -p 220,0 -s 16x16}${image $HOME/.conky/crypto/python_logo.png -p 240,0 -s 15x15}
 
 ########################################### show info
 ${execpi 30 sed -n '1p' $HOME/.conky/crypto/conky.txt}
