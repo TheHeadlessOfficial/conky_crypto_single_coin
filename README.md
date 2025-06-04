@@ -9,7 +9,7 @@ A conky (with a script written in Python) which sets 2 targets, one higher and o
 
 Download the .zip file, extract the file, copy the file `.conkyrc_crypto` and the folder `.conky` inside your Linux `home`.<br>
 If your `home` is named *pippo*, copy inside *pippo* so you get: `/home/pippo/.conky` and `/home/pippo/.conkyrc_crypto`.<br>
-Go to `/home/YOURHOMENAME/.conky/crypto/` and open with a text editor the file `crypto_alert.py`, go to rows block 50-60 and decide what you want to use for the two targets values: the script variables or the statement that read the file usertargets.txt. Then go to row 62 and edit the ID coin, based on the coin you choosed.<br>
+Go to `/home/YOURHOMENAME/.conky/crypto/` and open with a text editor the file `crypto_alert.py`, go to rows block 50-60 and decide what you want to use for the two targets values: the script variables or the statement that read the file `usertargets.txt`. Then go to row 62 and edit the ID coin, based on the coin you choosed.<br>
 If you don't know how to do all that, follow this video instructions: [APPID guide](https://www.youtube.com/watch?v=aDSMSjkxLsE)<br>
 <br>
 In the `font` folder, you can find some fonts you need.<br>
