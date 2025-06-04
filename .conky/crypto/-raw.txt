@@ -1,0 +1,16 @@
+id: 90
+symbol: BTC
+name: Bitcoin
+nameid: bitcoin
+rank: 1
+price_usd: 104154.82
+percent_change_24h: 0.02
+percent_change_1h: -0.22
+percent_change_7d: -4.35
+price_btc: 1.00
+market_cap_usd: 2069199659544.50
+volume24: 24981285067.080738
+volume24a: 21313464525.37427
+csupply: 19866577.00
+tsupply: 19866577
+msupply: 21000000

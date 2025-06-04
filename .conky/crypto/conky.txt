@@ -1,0 +1,7 @@
+${color2}BTC - BITCOIN${color}
+${color2}Actual price (USD): ${color}104154.82
+
+${color2}${ALIGNC}TARGETS
+${color2}Limit Up: ${color6}113000.0${color}${ALIGNR}${color2}Limit Down: ${color9}85000.0${color}
+
+${color}Target not reached. ${color}Actual price is between the targets.
