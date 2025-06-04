@@ -13,7 +13,7 @@ Go to `/home/YOURHOMENAME/.conky/crypto/` and open with a text editor the file `
 If you don't know how to do all that, follow this video instructions: [APPID guide](https://www.youtube.com/watch?v=aDSMSjkxLsE)<br>
 <br>
 In the `font` folder, you can find some fonts you need.<br>
-The python script saves data in file so you can build your conky weather as you wish.<br>
+The python script saves data in file so you can build your conky as you wish.<br>
 Edit `.conkyrc_crypto` to build your conky.<br>
 The `.conkyrc_crypto` file i attach, works.<br>
 Run the file `.conkyrc_crypto` from terminal (the first time you run this conky), so you can get possible errors. 
