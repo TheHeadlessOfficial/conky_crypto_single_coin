@@ -1,6 +1,9 @@
 #!/bin/bash
 
-path_default="/home/hiro/.conky/crypto"
+# Get the user's home directory
+HOME_DIR="$HOME"
+
+path_default="$HOME_DIR/.conky/crypto"
 
 # Ask user to enter limit price UP
 echo "Type limit UP price (with 2 decimals, using the point (.) example: 20570.51):"
